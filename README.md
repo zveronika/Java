@@ -1,2 +1,3 @@
 # java-homeworks
-<li> branch
+<li> branch oprpp1 - zadaće iz kolegija "Odabrana poglavlja razvoja programske potpore 1" (2023.)
+<li> branch uuui - labosi iz kolegija "Uvod u umjetnu inteligenciju" (2023.)
